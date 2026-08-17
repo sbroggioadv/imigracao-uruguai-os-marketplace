@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "imigracao-uruguai-os-marketplace",
+  "description": "Marketplace oficial do plugin imigracao-uruguai-os — imigração para o Uruguai em 3 frentes, com trava OAB≠advocacia UY e varredura de vigência (Ley 18.250 / DNM).",
+  "owner": { "name": "IA Combativa" },
+  "plugins": [
+    {
+      "name": "imigracao-uruguai-os",
+      "source": "./imigracao-uruguai-os",
+      "description": "Assistente completo de imigração para o Uruguai: permanente MERCOSUL direta, DNM (não MRREE), HIP e ciudadanía legal ≠ nacionalidad. Gates: vigência + representação.",
+      "author": { "name": "IA Combativa" }
+    }
+  ]
+}
